@@ -13,7 +13,10 @@ I'm an enthusiastic Computer Science Engineering student specializing in DevOps 
 - 👯 I'm looking to collaborate on open source projects and digital public goods
 - 💬 Ask me about DevOps, containerization, and media management systems
 - 📫 How to reach me: arnavpraneet@gmail.com | +91 9891973662
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJvcWZuc3J5dnM2amh5ZmFhamk4ZGNybTlybGtnOGk5bnd0eDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJvcWZuc3J5dnM2amh5ZmFhamk4ZGNybTlybGtnOGk5bnd0eDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Welcome Animation" width="500">
+</div>
 ## 🛠️ Technical Skills
 
 ### Programming Languages
