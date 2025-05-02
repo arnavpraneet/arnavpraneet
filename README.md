@@ -17,6 +17,8 @@ I'm an enthusiastic Computer Science Engineering student specializing in DevOps 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJvcWZuc3J5dnM2amh5ZmFhamk4ZGNybTlybGtnOGk5bnd0eDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Welcome Animation" width="500">
 </div>
+
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
