@@ -124,14 +124,25 @@ A personal relationship manager for managing your social connections. Built with
 - **Tata Crucible Campus Quiz** - Cluster Finalist for Rajasthan (2024)
 - **Dhaka University Quiz Festival** - First Runner Up, International Segment (2025)
 
-<div align="left">
-  <a href="https://www.goodreads.com/book/show/2969660-princes-of-the-yen" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421710677i/2969660.jpg" width="120" alt="Princes of the Yen" />
-  </a>
-  <br>
-  <strong>Princes of the Yen</strong> by Richard Werner
-  <br>
-  <em>"A brief quote or your thoughts about the book..."</em>
+<div align="center">
+  <table>
+    <tr>
+      <td width="300px" align="center">
+        <a href="https://www.goodreads.com/book/show/2969660-princes-of-the-yen" target="_blank">
+          <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421710677i/2969660.jpg" width="150" alt="Princes of the Yen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+      <td width="500px">
+        <h3>📖 <strong>Princes of the Yen</strong></h3>
+        <h4>by Richard Werner</h4>
+        <p><em>"Exploring how central banks can be used as tools for economic transformation and development."</em></p>
+        <div>
+          <img src="https://img.shields.io/badge/Genre-Economics-orange?style=flat-square" alt="Genre: Economics"/>
+          <img src="https://img.shields.io/badge/Status-Currently_Reading-blue?style=flat-square" alt="Status: Currently Reading"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌐 Languages
