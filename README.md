@@ -124,6 +124,16 @@ A personal relationship manager for managing your social connections. Built with
 - **Tata Crucible Campus Quiz** - Cluster Finalist for Rajasthan (2024)
 - **Dhaka University Quiz Festival** - First Runner Up, International Segment (2025)
 
+<div align="left">
+  <a href="https://www.goodreads.com/book/show/2969660-princes-of-the-yen" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421710677i/2969660.jpg" width="120" alt="Princes of the Yen" />
+  </a>
+  <br>
+  <strong>Princes of the Yen</strong> by Richard Werner
+  <br>
+  <em>"A brief quote or your thoughts about the book..."</em>
+</div>
+
 ## 🌐 Languages
 
 - English (Proficient)
