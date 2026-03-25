@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Arnav Praneet
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arnavpraneet.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav_praneet)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavpraneet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavpraneet@gmail.com)
@@ -12,6 +13,7 @@ I'm an enthusiastic Computer Science Engineering student specializing in DevOps 
 - 🌱 I'm continuously learning AI/LLMs, Kubernetes, and cloud infrastructure optimization
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about DevOps, containerization, and media management systems
+- 🌍 Personal site: [arnavpraneet.dev](https://arnavpraneet.dev)
 - 📫 How to reach me: arnavpraneet@gmail.com | +91 9891973662
 
 <div align="center">
