@@ -62,9 +62,6 @@ I'm an enthusiastic Computer Science Engineering student specializing in DevOps 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 📊 GitHub Stats
-
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpraneet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🏆 Featured Projects
 
