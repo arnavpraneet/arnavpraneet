@@ -7,12 +7,12 @@
 
 ## 🚀 About Me
 
-I'm an enthusiastic Computer Science Engineering student specializing in DevOps and Cloud Computing. With experience in web and backend development, containerization, and automation, I focus on building robust and scalable applications using modern technologies. I'm particularly interested in Open Source and AI applications.
+I'm an enthusiastic Computer Science Engineering student specializing in Gen AI and cloud computing. With experience in web and backend development, containerization, and automation, I focus on building robust and scalable applications using modern technologies. I'm particularly interested in Open Source and AI applications.
 
-- 🔭 I'm currently working on LADDER - Legislative Assistant for Democratic Dialogue, Empowerment and Reform
+- 🔭 I'm currently working on METRA - Material Traceability, a digital twin platform for industrial processes.
 - 🌱 I'm continuously learning AI/LLMs, Kubernetes, and cloud infrastructure optimization
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about DevOps, containerization, and media management systems
+- 💬 Ask me about GenAI, open access, and media management systems
 - 🌍 Personal site: [arnavpraneet.dev](https://arnavpraneet.dev)
 - 📫 How to reach me: arnavpraneet@gmail.com | +91 9891973662
 
@@ -76,6 +76,11 @@ A personal relationship manager for managing your social connections. Built with
 
 ## 📜 Experience
 
+### Scalio - Junior Developer, Gurgaon
+*July 2025 - December 2026*
+- Worked on building pipeline for content generation with generative AI.
+- Full stack development for serving enterprise customers.
+- Worked on optimizing platform, reducing failures and increasing reliability.
 ### Student Development Centre, Manipal University Jaipur - DevOps
 *April 2025 - Present*
 - Working on DevOps processes and workflows at SDC MUJ
