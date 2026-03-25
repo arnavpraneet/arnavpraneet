@@ -6,16 +6,16 @@
 
 ## 🚀 About Me
 
-I'm an enthusiastic Computer Science Engineering student specializing in DevOps and Cloud Computing. With experience in web and backend development, containerization, and automation, I focus on building robust and scalable applications using modern technologies. I'm particularly interested in Digital Public Goods, Open Source, and AI applications.
+I'm an enthusiastic Computer Science Engineering student specializing in DevOps and Cloud Computing. With experience in web and backend development, containerization, and automation, I focus on building robust and scalable applications using modern technologies. I'm particularly interested in Open Source and AI applications.
 
 - 🔭 I'm currently working on LADDER - Legislative Assistant for Democratic Dialogue, Empowerment and Reform
 - 🌱 I'm continuously learning AI/LLMs, Kubernetes, and cloud infrastructure optimization
-- 👯 I'm looking to collaborate on open source projects and digital public goods
+- 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about DevOps, containerization, and media management systems
 - 📫 How to reach me: arnavpraneet@gmail.com | +91 9891973662
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJvcWZuc3J5dnM2amh5ZmFhamk4ZGNybTlybGtnOGk5bnd0eDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Welcome Animation" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlodHAybnoxd2NmenNvdHU3OWU5M3RvbmdydDJsOWt5b2Frc3liayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Welcome Animation" width="500">
 </div>
 
 
@@ -62,9 +62,7 @@ I'm an enthusiastic Computer Science Engineering student specializing in DevOps 
 
 ## 📊 GitHub Stats
 
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpraneet&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpraneet&layout=compact&theme=radical)
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpraneet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🏆 Featured Projects
 
@@ -156,7 +154,6 @@ A personal relationship manager for managing your social connections. Built with
 - Science Fiction
 - Astronomy
 - Public Transit
-- Digital Public Goods
 - Open Source
 - Citizen Science
 - Reading
